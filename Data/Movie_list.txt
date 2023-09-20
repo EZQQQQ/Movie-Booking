@@ -1,0 +1,16 @@
+Title	;	Runtime(min)	;	Genre	;	Language	;	Movie Rating	;	Date release	;	Director	;	Cast	;	Synopsis	;	Overall Rating	;		
+Black Adam	;	125	;	"Action, Adventure, Fantasy"	;	English	;	PG13	;	20-Oct-22	;	Jaume Collet-Serra	;	"Dwayne Johnson, Aldis Hodge, Pierce Brosnan, Noah Centineo, Sarah Shahi, Marwan Kenzari, Quintessa Swindell, Bodhi Sabongui"	;	test	;	5	;		
+The Quintessential Quintuplets 	;	136	;	Anime	;	Japanese	;	PG	;	13-Oct-22	;	Masato Jinbo 	;	"Yoshitsugu Matsuoka, Inori Minase, Ayana Taketatsu, Ayane Sakura, Kana Hanazawa, Miku Ito"	;	test	;	4	;		
+Halloween Ends	;	111	;	Horror	;	English 	;	M18	;	13-Oct-22	;	David Gordon Green	;	"Jamie Lee Curtis, Andi Matichak, Will Patton, James Jude Courtney, Rohan Campbell, Kyle Richards"	;	test	;	4.5	;		
+Abang Long Fadil 3	;	116	;	"Action, Comedy"	;	Malay	;	PG13	;	8-Sep-22	;	Syafiq Yusof	;	"Elizabeth Tan, Maya Karin, Zizan Razak, Johan ., Ozlynn ., Dato AC Mizal"	;	test	;	3	;		
+Ajoomma	;	90	;	Drama	;	"Mandarin, Korean, Englsih"	;	NC17	;	27-Oct-22	;	He Shuming	;	"Hong Huifang, Jung Dong-Hwan, Kang Hyung Suk, Yeo Jingoo"	;	test	;	4.5	;		
+Ticket to Paradise	;	104	;	"Romance, Comedy"	;	English 	;	PG13	;	6-Oct-22	;	OI Parker	;	"George Clooney, Julia Roberts"	;	test	;	3	;		
+One Piece Film Red	;	115	;	Anime	;	Japanese	;	PG13	;	29-Sep-22	;	Goro Taniguchi	;	"Ikue Otani, Kaori Nazuka, Mayumi Tanaka, Akemi Okamura, Kappei Yamaguchi, Hiroaki Hirata"	;	test	;	4.5	;		
+Amsterdam 	;	134	;	"Mystery, Comedy"	;	English 	;	NC17	;	6-Oct-22	;	David O.Russell	;	"Christian Bale, Robert De Niro, Margot Robbie, Zoe Saldana, Anna Taylor-Joy, Rami Malek , Mike Myers, Taylor Swift, John David Washington, Chris Rock"	;	test	;	3	;		
+Don't Look At The Demon	;	94	;	Horror	;	English 	;	M18	;	6-Oct-22	;	Brando Lee	;	"Harris Dickinson, Fiona Dourif, Malin Crepin"	;	test	;	4.5	;		
+Wandering	;	150	;	"Drama, Mystery"	;	Japanese	;	M18	;	13-Oct-22	;	Lee-Sang-il	;	"Suzu Hirose, Tori Matsuzaka, Ryusei Yokohama, Mikako Tabe"	;	test	;	3	;		
+Doctor G	;	122	;	"Comedy, Drama"	;	Hindi	;	PG13	;	14-Oct-22	;	Anubhuti Kashyap	;	"Ayushmann Khuranna, Rakul Preet Singh, Shefali Shah"	;	test	;	4.5	;		
+Geylang	;	87	;	"Thriller, Drama"	;	Mandarin	;	M18	;	29-Dec-22	;	Boi Kwong	;	"Mark Lee , Shiela Sim, Lin Ying Wei, Shane Mardjuki"	;	test	;	3	;		
+Deleted	;	90	;	"Action, Crime, Drama"	;	"English, Mandarin, Malay"	;	NC17	;	3-Nov-22	;	Ken Ng Lai Huat	;	"Jack Neo, Fattah Amin, Zheng Ge Ping, Vincent Ng, Dato Rosyam Nor , Tien Hsin, Zhu Hou Ren, Henley Hii, Pablo Amirul"	;	test	;	4.5	;		
+Black Panther: Wakanda Forever	;	120	;	"Action, Adventure"	;	English	;	PG13	;	10-Nov-22	;	Ryan Coogler	;	"Lupita Nyong'o , Danai Gurira , Angela Bassett, Winston Duke, Letitia Wright , Florence Kasumba"	;	test	;	5	;		
+Avatar: The Way of Water	;	120	;	"Adventure, Action, Sci-Fi"	;	English	;	PG13	;	15-Dec-22	;	James Cameron	;	"Vin Diesel, Kate Winslet, Zoe Saldana, Stephen Lang, Sam Worthington, Sigourney Weaver"	;	test	;	5	;		
